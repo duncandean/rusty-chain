@@ -1,4 +1,6 @@
-# <img src="./link.svg" width="42px" /> rusty-chain [![Build Status](https://travis-ci.org/duncandean/rusty-chain.svg?branch=master)](https://travis-ci.org/duncandean/rusty-chain)
+# <img src="./link.svg" width="42px" /> rusty-chain [![Build Status](https://travis-ci.org/duncandean/rusty-chain.svg?branch=master)](https://travis-ci.org/duncandean/rusty-chain) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 An experimental blockchain in Rust.
 
 WIP
