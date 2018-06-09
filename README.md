@@ -1,4 +1,4 @@
-# ![Link](./link.svg  =64x) rusty-chain [![Build Status](https://travis-ci.org/duncandean/rusty-chain.svg?branch=master)](https://travis-ci.org/duncandean/rusty-chain)
+# <img src="./link.svg" width="42px" /> rusty-chain [![Build Status](https://travis-ci.org/duncandean/rusty-chain.svg?branch=master)](https://travis-ci.org/duncandean/rusty-chain)
 An experimental blockchain in Rust.
 
 WIP
